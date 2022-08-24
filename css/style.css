@@ -1,0 +1,69 @@
+
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.3/font/bootstrap-icons.css");
+h1{
+  text-align: center;
+}
+h2{
+  text-align: center;
+}
+h3{
+  text-align: center;
+}
+h4{
+  text-align: center;
+}
+h5{
+  text-align: center;
+}
+h6{
+  text-align: center;
+}
+p{
+  text-align: center;
+}
+#quad0{
+  background-image: url(../img/negocia1.jpg);
+  background-repeat: no-repeat;
+  background-repeat: round;
+  text-align: center;
+  padding: 10%;
+  opacity: 0.8;
+  background-color: blue;
+  
+}
+#quad1{
+  padding: 5%;
+}
+#quad2{
+  background-color: orangered;
+  padding: 5%;
+  color: white;
+}
+#quad3{
+  padding: 3%;
+}
+#quad3 img{
+  border: solid gray 3px;
+  box-shadow: 2px 2px 2px 2px gray;
+}
+#sp1{
+  color: orangered;
+  font-weight: bold;
+}
+#sp2{
+  color: orangered;
+  font-weight: bold;
+}
+#sp3{
+  color: orangered;
+  font-weight: bold;
+}
+footer{
+  background-color: orangered;
+  color: white;
+}
+#lisa{
+  list-style: none;
+  text-align: center;
+  
+}
